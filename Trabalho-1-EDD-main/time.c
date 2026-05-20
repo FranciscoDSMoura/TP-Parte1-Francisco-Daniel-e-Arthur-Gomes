@@ -41,8 +41,8 @@ Time analisa_time(char *linha_csv)
     t.derrotas = 0;
     t.gols_m = 0;
     t.gols_s = 0;
-    t.saldo_gols = 0;
-    t.pontos_ganhos = 0;
+    calcula_saldo_gols(&t);
+    calcula_ponto_ganho(&t);
 
     return t;
 }
