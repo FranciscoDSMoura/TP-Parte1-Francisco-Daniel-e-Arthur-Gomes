@@ -44,8 +44,8 @@ Linux Ubuntu V24.04
 
 ## Funcionalidades Implementadas (Parte I)
 
-+ Consultar Time: Exibe o desempenho de equipes por nome ou prefixo.
-+ 
++ Consultar Time: permite localizar um clube específico no banco de dados através de seu nome completo ou apenas um prefixo (ex: digitar "SE" para listar "SemCTRL" e "SeQueLas").
+
 + Imprimir Tabela de Classificação: Exibe a lista completa de times e seus pontos acumulados.
 
 Ao selecionar a **opção 6** no menu, o sistema gera o seguinte relatório de desempenho dos times:
