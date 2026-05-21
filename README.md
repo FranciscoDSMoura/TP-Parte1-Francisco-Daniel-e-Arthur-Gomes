@@ -10,9 +10,9 @@ Linux Ubuntu V24.04
 
 ## Como Executar
 
-make - _Compila automaticamente todos os módulos_
+`make` - _Compila automaticamente todos os módulos_
 
-./main - _Executa o programa_
+`./main` - _Executa o programa_
 
 ## Arquivos
 
