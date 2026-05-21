@@ -14,7 +14,7 @@ make - _Compila automaticamente todos os módulos_
 
 ./main - _Executa o programa_
 
-## Modularização
+## Arquivos
 
 `main.c`: Ponto de entrada do sistema e controle do loop do menu.
 
@@ -25,3 +25,10 @@ make - _Compila automaticamente todos os módulos_
 `partida.h` / `partida.c`: TAD que representa as informações de um jogo específico.
 
 `bd_partidas.h` / `bd_partidas.c`: TAD que gerencia o histórico de jogos e carrega o arquivo partidas.csv.
+
+`Makefile`: Arquivo de automação da compilação.
+
+## Funcionalidades Implementadas (Parte I)
+
++ Consultar Time: Exibe o desempenho de equipes por nome ou prefixo.
++ Imprimir Tabela de Classificação: Exibe a lista completa de times e seus pontos acumulados.
