@@ -30,6 +30,8 @@ Linux Ubuntu V24.04
 
 `bd_partidas.h` / `bd_partidas.c`: TAD que gerencia o histórico de jogos e carrega o arquivo partidas.csv.
 
+`classificacao.h` / `classificacao.c`: TAD que calcula as pontuações/classificação dos times após todo o campeonato
+
 `Makefile`: Arquivo de automação da compilação.
 
 ## 4 Estruturas utilizadas
@@ -56,6 +58,11 @@ Se o usuário desejar buscar os times que começam com "SE":
   - 5 - SeQueLas
 ---
 * 6.2 **Consulta de Partidas:** Filtros por mandante, visitante ou ambos.
+
+| ID    | Time1   |          Time 2   |
+| :---: | :----:  |  :------------:   |
+| **0** | JAVAlis |  5 x 4 | NETunos  |
+| **4** | PYthons |  2 x 2 | SEquelas |
 
 + 6.3 Imprimir Tabela de Classificação: Exibe a lista completa de times e seus pontos acumulados.
 
