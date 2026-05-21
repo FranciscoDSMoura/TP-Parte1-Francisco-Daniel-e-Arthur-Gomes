@@ -40,7 +40,7 @@ NoTime* buscar_por_id(BDTime *bd, int id);
 const char* time_get_nome(NoTime *n);
 
 // Salva todas as partidas em um arquivo
-void bd_salvar_arquivo(BDTime *bd, const char *caminho_arquivo)
+void bd_salvar_arquivo(BDTime *bd, const char *caminho_arquivo);
 
 // Atualiza as estatísticas de um time no banco de dados
 //int atualizar_estatisticas_time(BDTime *bd, int id, Time novo);
