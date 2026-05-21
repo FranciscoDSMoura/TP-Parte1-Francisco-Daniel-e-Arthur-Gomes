@@ -32,7 +32,7 @@ Linux Ubuntu V24.04
 
 ## Estruturas utilizadas
 
-+ O sistema utiliza listas encadeadas simples para os bancos de dados, garantindo que a memória seja utilizada conforme a necessidade
++ O sistema utiliza listas encadeadas simples para os bancos de dados, garantindo que a memória seja utilizada conforme a necessidade.
 
 ## Regras de pontuação:
 
@@ -45,4 +45,12 @@ Linux Ubuntu V24.04
 ## Funcionalidades Implementadas (Parte I)
 
 + Consultar Time: Exibe o desempenho de equipes por nome ou prefixo.
++ 
 + Imprimir Tabela de Classificação: Exibe a lista completa de times e seus pontos acumulados.
+
+Ao selecionar a **opção 6** no menu, o sistema gera o seguinte relatório de desempenho dos times:
+
+| ID | Time | Vitórias | Empates | Derrotas | GM | GS | Saldo | PG |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **0** | JAVAlis | 3 | 1 | 0 | 10 | 4 | +6 | **10** |
+| **4** | PYthons | 2 | 2 | - | - | - | - | **-** |
