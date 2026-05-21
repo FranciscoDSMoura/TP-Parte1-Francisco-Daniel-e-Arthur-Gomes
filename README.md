@@ -8,7 +8,7 @@ GCC 11
 
 Linux Ubuntu V24.04
 
-## 2 Como Executar
+## 2 - Como Executar
 
 `make` - _Compila automaticamente todos os módulos_
 
@@ -16,7 +16,7 @@ Linux Ubuntu V24.04
 
 `make clean` - _Realiza a limpeza dos arquivos criados_
 
-## 3 Arquivos
+## 3 - Arquivos
 
 `main.c`: Ponto de entrada que gerencia o fluxo principal e inicialização dos bancos de dados.
 
@@ -34,11 +34,11 @@ Linux Ubuntu V24.04
 
 `Makefile`: Arquivo de automação da compilação.
 
-## 4 Estruturas utilizadas
+## 4 - Estruturas utilizadas
 
 + O sistema utiliza listas encadeadas simples para os bancos de dados, garantindo que a memória seja utilizada conforme a necessidade.
 
-## 5 Regras de pontuação:
+## 5 - Regras de pontuação:
 
 + Vitória: +3 pontos.
 
@@ -46,7 +46,7 @@ Linux Ubuntu V24.04
 
 + Derrota: 0 pontos.
 
-## 6 Descrição das Funcionalidades (Parte I)
+## 6 - Descrição das Funcionalidades (Parte I)
 
 * 6.1 **Consulta de Times:** Busca por nome ou prefixo (case-insensitive).
 
