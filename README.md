@@ -54,7 +54,7 @@ Se o usuário desejar buscar os times que começam com "SE":
 - **Saída:**
   - 2 - SemCTRL
   - 5 - SeQueLas
-  
+---
 * 6.2 **Consulta de Partidas:** Filtros por mandante, visitante ou ambos.
 
 + 6.3 Imprimir Tabela de Classificação: Exibe a lista completa de times e seus pontos acumulados.
